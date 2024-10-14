@@ -34,6 +34,7 @@
 可提供所有运行软件、远程安装、技术指导。
 
 ## 运行截图：
+![](https://github.com/itcoderyhl/seat-server/blob/main/images/1.png)
 ![](https://github.com/itcoderyhl/seat-server/blob/main/images/2.png)
 ![](https://github.com/itcoderyhl/seat-server/blob/main/images/3.png)
 ![](https://github.com/itcoderyhl/seat-server/blob/main/images/4.png)
